@@ -1,0 +1,12 @@
+# Runtime files
+state.json
+notify.log
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
